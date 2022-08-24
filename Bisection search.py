@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+# A program to find cube root using bisection search algorithm
+
 """
 Created on Wed Aug 24 00:44:41 2022
 
 @author: harsh
+
 """
 
 cube = 1000
