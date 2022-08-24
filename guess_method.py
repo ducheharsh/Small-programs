@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
  
+# This is small python program to find cube root using Guess method
+  
 cube = int(input("Enter a number"))
 guess = 0
 ep = 0.001

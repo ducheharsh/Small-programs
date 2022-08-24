@@ -10,7 +10,7 @@ Created on Wed Aug 24 00:44:41 2022
 
 """
 
-cube = 1000
+cube = int(input("Enter a number + ""))
 low = 0
 ep = 0.00001
 high = cube
